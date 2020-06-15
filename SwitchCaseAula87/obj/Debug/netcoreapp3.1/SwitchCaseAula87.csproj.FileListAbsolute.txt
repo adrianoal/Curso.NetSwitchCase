@@ -1,0 +1,11 @@
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.exe
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.deps.json
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.dll
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\bin\Debug\netcoreapp3.1\SwitchCaseAula87.pdb
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\obj\Debug\netcoreapp3.1\SwitchCaseAula87.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\obj\Debug\netcoreapp3.1\SwitchCaseAula87.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\obj\Debug\netcoreapp3.1\SwitchCaseAula87.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\obj\Debug\netcoreapp3.1\SwitchCaseAula87.dll
+C:\Users\aalima5\Desktop\Code C#\SwitchCaseAula87\SwitchCaseAula87\obj\Debug\netcoreapp3.1\SwitchCaseAula87.pdb
